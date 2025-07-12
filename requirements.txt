@@ -4,3 +4,6 @@ scikit-learn
 xgboost
 flask
 joblib
+matplotlib
+seaborn
+# -e .
